@@ -1,16 +1,16 @@
-### Hi there 👋
+# Yure Araújo dos Santos
+Brazilian, 22 years old.
 
-<!--
-**yureesantos/yureesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Natal / São Paulo, BR.
 
-Here are some ideas to get you started:
+**E-mail:** [yureesantos@gmail.com](mailto:yureesantos@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**LinkedIn:** https://www.linkedin.com/in/yaraujos/
+
+## Experience
+
+*2020/03 - Present* - **Software Engineer** - https://linkapi.solutions
+* Back-end developer, building APIs and integrations with systems (e-commerces > ERPs e.g.) using technologies like NodeJS, MongoDB and more.
+
+*2014/01 - 2020/01* - **Spark Soluções Inteligentes / Freelancer**
+* Developing (front and back-end) high performance systems for small, medium and large companies using PHP, NodeJS, React and React Native.
