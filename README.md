@@ -10,7 +10,7 @@ Natal / São Paulo, BR.
 ## Experience
 
 *2020/03 - Present* - **Software Engineer** - https://linkapi.solutions
-* Back-end developer, building APIs and integrations with systems (e-commerces > ERPs e.g.) using technologies like NodeJS, MongoDB and more.
+* Back-end developer, building APIs and integrations with systems (e-commerces > ERPs e.g.) using technologies like NodeJS, MongoDB, Docker and more.
 
 *2014/01 - 2020/01* - **Spark Soluções Inteligentes / Freelancer**
 * Developing (front and back-end) high performance systems for small, medium and large companies using PHP, NodeJS, React and React Native.
