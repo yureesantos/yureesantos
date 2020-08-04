@@ -14,3 +14,30 @@ Natal / São Paulo, BR.
 
 *2014/01 - 2020/01* - **Spark Soluções Inteligentes / Freelancer**
 * Developing (front and back-end) high performance systems for small, medium and large companies using PHP, NodeJS, React and React Native.
+
+## Skills
+
+### Languages
+
+* JavaScript
+* PHP
+
+### Back-end
+* Node.js
+* PHP (Laravel)
+* REST and SOAP APIs
+* Relational (Postgres, MySQL) and NoSQL (MongoDB, Firebase, Redis) databases
+
+### Front-end
+* HTML5/CSS3
+* React
+
+### Mobile
+* React Native
+
+### Others
+* Docker
+* Git
+* Testing
+* SCRUM
+* Linux and MacOS
