@@ -9,10 +9,10 @@ Natal / São Paulo, BR.
 
 ## Experience
 
-*2020/08 - Present* - **Tech Lead** - https://linkapi.solutions
+*2020/10 - Present* - **Tech Lead** - https://linkapi.solutions
 * Working as Tech Lead in the professional services area. Developing architecture for new projects, conducting code reviews and mentoring developers (career development, projects and more)
 
-*2020/03 - 2020/08* - **Software Engineer** - https://linkapi.solutions
+*2020/03 - 2020/10* - **Software Engineer** - https://linkapi.solutions
 * Back-end developer, building APIs and integrations with systems (e-commerces > ERPs e.g.) using technologies like NodeJS, MongoDB, Docker. Also using Kanban and SCRUM methodology.
 
 *2014/01 - 2020/01* - **Spark Soluções Inteligentes / Freelancer**
